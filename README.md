@@ -2,7 +2,7 @@
 
 A bar widget for [Omarchy](https://omarchy.org) Quattro that makes the workspace strip say more at a glance.
 
-![preview](preview.png)
+![preview](preview.png?v=2)
 
 ## What it shows
 
