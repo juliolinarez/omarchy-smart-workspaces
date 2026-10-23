@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.juliolinarez.smart-workspaces",
+  "name": "Smart Workspaces",
+  "version": "1.0.0",
+  "author": "juliolinarez",
+  "license": "MIT",
+  "description": "Workspace numbers that say where they live and what they hold: bold on the monitor they belong to, a dot when they have windows, and the active one in a filled box.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Workspaces.qml"
+  },
+  "barWidget": {
+    "displayName": "Smart Workspaces",
+    "description": "Workspaces marked by monitor, occupancy and focus.",
+    "category": "Compositor",
+    "defaultSection": "left",
+    "allowMultiple": false
+  }
+}
